@@ -1,0 +1,4 @@
+---
+:aws_access_key: "<YOUR AWS ACCESS KEY>"
+:aws_access_secret: "<YOUR AWS SECRET>"
+:bucket_name: "<S3 BUCKET NAME>"

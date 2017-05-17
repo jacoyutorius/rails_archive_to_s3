@@ -18,6 +18,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", "~> 5.1.0.beta1"
   s.add_dependency "sprockets", "3.6"
+  s.add_dependency "hashie"
 
   s.add_development_dependency "sqlite3"
 end

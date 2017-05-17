@@ -31,13 +31,15 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 - https://railsguides.jp/plugins.html
 - http://morizyun.github.io/blog/ruby-gem-easy-publish-library-rails/
-
+- [Ruby on Rails | Railsプラグインの開発時にrakeタスクを作成する方法](http://tbpgr.hatenablog.com/entry/20130904/1378306296)
 
 ## commands
 
 ```console
 rails plugin new archive_to_s3
 ```
+
+
 
 ---
 

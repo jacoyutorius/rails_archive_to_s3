@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     archive_to_s3 (0.1.0)
+      hashie
       rails (~> 5.1.0.beta1)
       sprockets (= 3.6)
 
@@ -51,6 +52,7 @@ GEM
     erubi (1.6.0)
     globalid (0.4.0)
       activesupport (>= 4.2.0)
+    hashie (3.5.5)
     i18n (0.8.1)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
