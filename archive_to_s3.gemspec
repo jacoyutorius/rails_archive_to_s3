@@ -19,6 +19,12 @@ Gem::Specification.new do |s|
   s.add_dependency "rails", "~> 5.1.0.beta1"
   s.add_dependency "sprockets", "3.6"
   s.add_dependency "hashie"
+  s.add_dependency "yaml_db", "~> 0.5.0"
+  s.add_dependency "aws-sdk", "~> 2"
+
 
   s.add_development_dependency "sqlite3"
+  s.add_development_dependency "pry"
+  s.add_development_dependency "pry-byebug"
+  s.add_development_dependency "awesome_print"
 end
